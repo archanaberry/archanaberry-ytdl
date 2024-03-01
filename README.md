@@ -12,6 +12,28 @@ archanaberry-ytdl-exec++ adalah sebuah proyek yang memungkinkan Anda untuk mendo
 - **Output Kustom**: Anda dapat menentukan nama file keluaran sesuai keinginan Anda.
 - **Python tidak diperlukan**: Tidak seperti versi JavaScript, proyek ini tidak memerlukan Python untuk dijalankan.
 
+## Resolusi yang didukung
+| Resolution | Description       |
+|------------|-------------------|
+| ultralow   | Ultra-Low Quality |
+| 144p       | 144 pixels        |
+| 240p       | 240 pixels        |
+| 360p       | 360 pixels        |
+| 480p       | 480 pixels        |
+| 720p       | 720 pixels        |
+| 1080p      | 1080 pixels       |
+
+## Format video dari YouTube yang didukung 
+| Format      | Description                     |
+|-------------|---------------------------------|
+| m4a         | MPEG-4 Audio                   |
+| mhtml       | MHTML                           |
+| mp4         | MPEG-4 Part 14                  |
+| none        | No Audio                        |
+| 3gp         | 3GPP Media File                 |
+| webm        | WebM Media File                 |
+
+
 ## Cara Penggunaan
 ### Mengunduh dan Mengompilasi
 1. Clone repositori: `git clone https://github.com/archanaberry/youtube-dl-exec-cpp.git`
