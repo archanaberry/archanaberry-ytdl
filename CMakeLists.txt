@@ -23,3 +23,6 @@ set_target_properties(ytdl PROPERTIES
 
 # Install header files
 install(FILES archanaberry-youtube/constant.hpp archanaberry-youtube/index.hpp archanaberry-youtube/tinyspawn.hpp DESTINATION include/archanaberry-ytdl)
+
+# Link with libcurl
+target_link_libraries(ytdl ${CURL_LIBRARIES})
