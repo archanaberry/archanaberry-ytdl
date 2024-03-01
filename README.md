@@ -2,7 +2,7 @@
 
 ![icon](archanaberry/icon.png)
 
-archanaberry-ytdl-exec++ adalah sebuah proyek yang memungkinkan Anda untuk mendownload video dari YouTube menggunakan C++. Proyek ini merupakan hasil garapan dari [Archana Berry](https://github.com/archanaberry) yang merupakan adaptasi dari proyek [youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) menggunakan bahasa pemrograman C++.
+archanaberry-ytdl-exec++ adalah sebuah proyek yang memungkinkan Anda untuk mendownload video dari YouTube menggunakan C++. Proyek ini merupakan hasil garapan dari saya sendiri ya [Archana Berry](https://github.com/archanaberry) yang merupakan adaptasi dari proyek [youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) menggunakan bahasa pemrograman C++.
 
 ## Fitur-fitur
 - **Download Video dari YouTube**: Anda dapat dengan mudah mendownload video dari YouTube hanya dengan menggunakan perintah sederhana.
