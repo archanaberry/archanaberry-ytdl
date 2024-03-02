@@ -36,15 +36,24 @@ archanaberry-ytdl-exec++ adalah sebuah proyek yang memungkinkan Anda untuk mendo
 
 ## Cara Penggunaan
 ### Mengunduh dan Mengompilasi
-1. Clone repositori:
-2. ```git clone https://github.com/archanaberry/archanaberry-ytdl.git```
-3. Masuk ke direktori proyek:
-4. ```cd youtube-dl-exec-cpp```
-5. Bikin konfigurasi pakai cmake
-6. ```cmake .```
-7. Kompilasi paket program:
-8. ```make```
+1. Klonkan repositorinya:
+```
+   git clone https://github.com/archanaberry/archanaberry-ytdl.git
+```
+2. Masuk ke direktori proyek:
+```
+   cd youtube-dl-exec-cpp
+```
+3. Bikin konfigurasi pakai cmake:
+```
+cmake .
+```
+4. Kompilasi paket program:
+ ```
+make
+```
 
 ### Menjalankan Program
 ```sh
 ./ytdl -d <URL> -r=<RESOLUSI> -o "<NAMA_FILE_KELUARAN>"
+```
